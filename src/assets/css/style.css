@@ -590,37 +590,4 @@ video {
   text-decoration-line: underline;
 }
 
-.container {
-  margin-left: auto;
-  margin-right: auto;
-  --tw-bg-opacity: 1;
-  background-color: rgb(100 116 139 / var(--tw-bg-opacity));
-}
-
-@media (min-width: 640px) {
-  .container {
-    max-width: 24rem;
-  }
-}
-
-@media (min-width: 768px) {
-  .container {
-    max-width: 28rem;
-  }
-}
-
-@media (min-width: 1024px) {
-  .container {
-    max-width: 32rem;
-  }
-}
-
-@media (min-width: 1280px) {
-  .container {
-    max-width: 36rem;
-  }
-}
-
-/* .container {
-  background: rgba(46, 140, 207, 0.299);
-} */
+/* Custom template */
