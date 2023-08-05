@@ -1,0 +1,6 @@
+.container {
+  @apply bg-slate-500 mx-auto xl:max-w-xl lg:max-w-lg md:max-w-md sm:max-w-sm;
+}
+/* .container {
+  background: rgba(46, 140, 207, 0.299);
+} */
